@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xyrothyl/Documents/osrc/lab8_4/MathFunctions/MathFunctions.h
+
+/home/xyrothyl/Documents/osrc/lab8_4/MathFunctions/mysqrt.cxx
+iostream
+-
+MathFunctions.h
+/home/xyrothyl/Documents/osrc/lab8_4/MathFunctions/MathFunctions.h
+

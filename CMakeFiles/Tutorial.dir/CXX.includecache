@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xyrothyl/Documents/osrc/lab8_4/TutorialConfig.h
+
+/home/xyrothyl/Documents/osrc/lab8_4/tutorial.cxx
+cmath
+-
+iostream
+-
+string
+-
+TutorialConfig.h
+/home/xyrothyl/Documents/osrc/lab8_4/TutorialConfig.h
+MathFunctions.h
+/home/xyrothyl/Documents/osrc/lab8_4/MathFunctions.h
+
+MathFunctions/MathFunctions.h
+
